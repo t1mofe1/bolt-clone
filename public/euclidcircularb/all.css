@@ -1,0 +1,15 @@
+@font-face {
+	font-display: swap;
+	font-family: euclidCircularB;
+	font-style: normal;
+	font-weight: 400;
+	src: url(/fonts/EuclidCircularB-Regular-WebM.woff2) format('woff2'), url(/fonts/EuclidCircularB-Regular-WebM.ttf) format('truetype'), url(/fonts/EuclidCircularB-Regular-WebM.woff) format('woff');
+}
+
+@font-face {
+	font-display: swap;
+	font-family: euclidCircularB;
+	font-style: normal;
+	font-weight: 700;
+	src: url(/fonts/EuclidCircularB-Semibold-WebM.woff2) format('woff2'), url(/fonts/EuclidCircularB-Semibold-WebM.ttf) format('truetype'), url(/fonts/EuclidCircularB-Semibold-WebM.woff) format('woff');
+}
